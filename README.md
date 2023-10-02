@@ -1,1 +1,2 @@
-# Stock_prediction
+# Stock_prediction 
+"GithHub project: Stock Prediction using LSTM(Long Short Term Memory),This project utilizes historical stock price data for five different companies (AAPL, GOOGL, MSFT, TSLA, AMZN) to predict future stock prices using a Long Short-Term Memory (LSTM) neural network. The data is preprocessed, normalized, and organized into sequences. LSTM models are built and trained for each company to make predictions. The project concludes with the visualization of both training and predicted stock prices for each company on a single plot, providing valuable insights into how the models perform in forecasting stock price trends".
